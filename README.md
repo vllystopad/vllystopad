@@ -42,16 +42,18 @@ Translation system with client IP detection and hybrid i18n localization.
 ## 🎯 About me
 
 * 🎓 Studying Computer Science @ Polish-Japanese Academy of Information Technologies
-* ⚡ Strong in **frontend**, but also doing backend (Flask, PostgreSQL, Docker)
+* ⚡ Strong in **frontend**, developing backend knowledge (Flask, PostgreSQL, Docker)
 * 🌍 Languages: English (Professional), Ukrainian (Native), Polish (Basic)
 
 ---
 
 ## 🧩 Soft Skills
 
-✅ Strategic thinking & problem solving
+✅ Fast problem solving
 ✅ Time management & flexibility
-✅ Leadership & initiative
+✅ Initiative
+✅ Stress & deadlines tolerance 
+✅ Communication
 
 ---
 
