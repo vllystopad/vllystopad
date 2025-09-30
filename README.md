@@ -1,18 +1,24 @@
 # 👋 Hi, I'm Vladyslav Lystopad
 
 💻 **Front-end Engineer** passionate about building SaaS platforms, scalable apps and smooth user experiences.
-Currently intern @**Vention**.
+Currently intern @ **Vention**.
 
 ---
 
 ## 🚀 Tech Stack
 
 **Languages:** Javascript, Typescript, Python
+
 **Frameworks:** React.js, Next.js, Flask, Express.js
+
 **Databases:** PostgreSQL, MSSQL, MongoDB
+
 **Styling:** TailwindCSS, Material-UI, SCSS
+
 **Libraries:** Redux, Zustand, React-Query, RTK, i18n
+
 **Tools:** Docker, Swagger, Prettier, Postman
+
 **Cloud & Hosting:** Netlify, Vercel, Render, Strapi Cloud
 
 ---
@@ -37,7 +43,7 @@ Translation system with client IP detection and hybrid i18n localization.
 
 * 🎓 Studying Computer Science @ Polish-Japanese Academy of Information Technologies
 * ⚡ Strong in **frontend**, but also doing backend (Flask, PostgreSQL, Docker)
-* 🌍 Languages: English (Professional), Ukrainian (native), Polish (basic)
+* 🌍 Languages: English (Professional), Ukrainian (Native), Polish (Basic)
 
 ---
 
@@ -54,5 +60,3 @@ Translation system with client IP detection and hybrid i18n localization.
 🏋️ Gym
 ♟️ Chess
 🤝 Networking (IT events, conferences, business forums)
-
-
