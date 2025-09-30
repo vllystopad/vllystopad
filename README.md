@@ -25,15 +25,15 @@ Currently intern @ **Vention**.
 
 ## 🏗️ Projects
 
-🔹 **[E-commerce Shop](#)**
+🔹 **[E-commerce Shop](https://modimalshop.vercel.app/)**
 Full-stack shop app: register, search, filter clothes, favorites, cart, order products.
 **Stack:** React.js, Redux, Material-UI, Express, MongoDB
 
-🔹 **[AI Chat](#)**
+🔹 **[AI Chat](https://chat-frontend-vlo.vercel.app/)**
 AI assistant app where users select a model, chat, and store conversations.
 **Stack:** React.js, Redux, Material-UI, Typescript, Flask, PostgreSQL, Docker
 
-🔹 **[Casino Website (Freelance)](#)**
+🔹 **[Casino Website (Freelance)](https://saycasinonamev3.netlify.app/)**
 Translation system with client IP detection and hybrid i18n localization.
 **Stack:** React.js, Next.js, TailwindCSS, Strapi, i18n
 
