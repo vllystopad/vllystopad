@@ -32,7 +32,7 @@ Full-stack shop app: register, search, filter clothes, favorites, cart, order pr
 AI assistant app where users select a model, chat, and store conversations.
 **Stack:** React.js, Redux, Material-UI, Typescript, Flask, PostgreSQL, Docker
 
-🔹 **[Casino Website (Freelance)](https://saycasinonamev3.netlify.app/)**
+🔹 **[Casino Website (Freelance)](https://saycasinoname.netlify.app/)**
 Translation system with client IP detection and hybrid i18n localization.
 **Stack:** React.js, Next.js, TailwindCSS, Strapi, i18n
 
