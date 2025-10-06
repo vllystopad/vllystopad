@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Vladyslav Lystopad
 
 💻 **Front-end Engineer** passionate about building SaaS platforms, scalable apps and smooth user experiences.
-Currently intern @ **Vention**.
 
 ---
 
