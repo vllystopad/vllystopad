@@ -43,6 +43,7 @@ Translation system with client IP detection and hybrid i18n localization.
 * 🎓 Studying Computer Science @ Polish-Japanese Academy of Information Technologies
 * ⚡ Strong in **frontend**, developing backend knowledge (Flask, PostgreSQL, Docker)
 * 🌍 Languages: English (Professional), Ukrainian (Native), Polish (Basic)
+* 💼 Currently working at @ **Vention**
 
 ---
 
