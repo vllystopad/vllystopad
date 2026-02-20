@@ -1,43 +1,31 @@
 # 👋 Hi, I'm Vladyslav Lystopad
 
-💻 **Front-end Engineer** passionate about building SaaS platforms, scalable apps and smooth user experiences.
+💻 **I love art of engineering 
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages:** Javascript, Typescript, Python
+**Frontend:** React.js, Next.js, Vite, Javascript, Typescript, Redux, RTK Query, Zustand, Tanstack/React-Query, HTML&CSS, Material-UI, TailwindCSS, RadixUI, Shadcn/ui, Eslint & Prettier, Jest & React Testing Library, React Hook Form, Zod, Formik, Axios
 
-**Frameworks:** React.js, Next.js, Flask, Express.js
+**Backend:** Node.js, NestJS, Express.js, TypeORM, Stripe
 
-**Databases:** PostgreSQL, MSSQL, MongoDB
+**Databases:** PostgreSQL, MSSQL, MongoDB, OracleDB
 
-**Styling:** TailwindCSS, Material-UI, SCSS
-
-**Libraries:** Redux, Zustand, React-Query, RTK, i18n
+**CI/CD tools:** Docker, Github Actions, Gitlab CI/CD
 
 **Tools:** Docker, Swagger, Prettier, Postman
 
-**Cloud & Hosting:** Netlify, Vercel, Render, Strapi Cloud
+**Cloud & Hosting:** AWS, Vercel, Railway, Strapi Cloud, Netlify
 
----
-
-## 🏗️ Projects
-
-🔹 **[E-commerce Shop](https://modimalshop.vercel.app/)** (may be shut down due to lack of queries to db)
-Full-stack shop app: register, search, filter clothes, favorites, cart, order products.
-**Stack:** React.js, Redux, Material-UI, Express, MongoDB
-
-🔹 **[AI Chat](https://chat-frontend-vlo.vercel.app/)**
-AI assistant app where users select a model, chat, and store conversations.
-**Stack:** React.js, Redux, Material-UI, Typescript, Flask, PostgreSQL, Docker
+**API & Documentation**: Swagger, Postman
 
 ---
 
 ## 🎯 About me
 
 * 🎓 Studying Computer Science @ Polish-Japanese Academy of Information Technologies
-* ⚡ Strong in **frontend**, developing backend knowledge (Flask, PostgreSQL, Docker)
+* ⚡ Acquiring complete picture of software solution
 * 🌍 Languages: English (Professional), Ukrainian (Native), Polish (Basic)
 * 💼 Currently working at @ **Vention**
 
