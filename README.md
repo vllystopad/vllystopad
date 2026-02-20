@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladyslav Lystopad
 
-💻 **I love art of engineering 
+💻 **Engineering elegance fuels my soul**
 
 ---
 
