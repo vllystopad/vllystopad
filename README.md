@@ -33,7 +33,6 @@
 * 🎓 Studying Computer Science @ Polish-Japanese Academy of Information Technologies
 * ⚡ Acquiring complete picture of software solution
 * 🌍 Languages: English (Professional), Ukrainian (Native), Polish (Basic)
-* 💼 Currently working at @ **Vention**
 
 ---
 
