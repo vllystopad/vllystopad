@@ -6,25 +6,25 @@
 
 ## 🚀 Tech Stack
 
-**Frontend**: React.js, Next.js, Vite, Javascript, Typescript, Redux, RTK Query, Zustand, Tanstack/React-Query,  HTML&CSS, Material-UI, TailwindCSS, RadixUI, Shadcn/ui, Eslint & Prettier, Jest & React Testing Library, React Hook Form, Zod, Formik, Axios
+**Frontend**: React.js, Next.js, Vite, JavaScript, TypeScript, Redux, RTK Query, Zustand, TanStack Query, HTML & CSS, Material-UI, TailwindCSS, RadixUI, Shadcn/ui, ESLint & Prettier, Jest & React Testing Library, React Hook Form, Zod, Formik, Axios
 
-**Backend**: Node.js, NestJS, Express.js, Redis, Strapi, TypeORM, Prizma, Stripe, Strapi
+**Backend**: Node.js, NestJS, Express.js, Redis, Strapi, TypeORM, Prisma, Stripe
 
-**Mobile**: React Native, Expo Go, React Navigation, React Native Paper
+**Mobile**: React Native, Expo, React Navigation, React Native Paper
 
 **Databases**: MongoDB, PostgreSQL, MSSQL Server, Oracle DB
 
-**CI/CD tools**: Docker, Github Actions, Gitlab CI/CD
+**AI tooling**: Cursor, Claude Code, CodeRabbit, Context7, MCP
+
+**CI/CD**: Docker, GitHub Actions, GitLab CI/CD
 
 **Cloud**: AWS, Vercel, Railway, Strapi Cloud, Netlify
 
 **Monitoring**: Sentry
 
-**API & Documentation**: Swagger, Postman  
+**API & Docs**: Swagger, Postman
 
-**AI tools**: Cursor, CodeRabbit, Context7, Antigravity
-
-**Project management**: Jira, Notion 
+**Project management**: Jira, Notion
 
 ---
 
