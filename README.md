@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladyslav Lystopad
 
-My origin is Ukraine and now I am in Warsaw. I am *AI-driven Software Engineer* with 1.5+ years of everyday software challenges. I actively leverage AI-assisted development tools (Cursor, Claude Code, CodeRabbit) to improve code quality and development speed. I especially love solving frustrating and hard tasks and **espresso** ☕️
+My origin is Ukraine and now I am in Warsaw. I am *AI-driven Software Engineer* with 2 years of everyday software challenges. I actively leverage AI-assisted development tools (Cursor, Claude Code, CodeRabbit) to improve code quality and development speed. I especially love solving frustrating and hard tasks and **espresso** ☕️
 
 💻 **Engineering elegance fuels my soul**
 
