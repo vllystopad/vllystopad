@@ -36,19 +36,37 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vllystopad&hide_border=true" width="100%">
+  <img
+    src="./github-metrics.svg"
+    alt="GitHub Metrics"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github.com/vllystopad/vllystopad/blob/main/github-metrics.svg" width="100%">
+  <img
+    src="./activity-graph.svg"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img
+    src="./output/snake.svg"
+    alt="Snake and Commits"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vllystopad&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-zodiac.vercel.app/api/card?username=vllystopad&width=480" width="480">
+  <img
+    src="https://github-readme-zodiac.vercel.app/api/card?username=vllystopad"
+    alt="GitHub Zodiac"
+  />
 </p>
 
 ---
