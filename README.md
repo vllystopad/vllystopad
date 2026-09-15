@@ -1,31 +1,24 @@
 # 👋 Hi, I'm Vladyslav Lystopad
 
-My origin is Ukraine and now I am in Warsaw. I am *AI-driven Software Engineer* with 2 years of everyday software challenges. I actively leverage AI-assisted development tools (Cursor, Claude Code, CodeRabbit) to improve code quality and development speed. I especially love solving frustrating and hard tasks and **espresso** ☕️
+I'm a **Software Engineer** based in Warsaw, originally from Ukraine, with 2 years of professional experience.
+I love solving challenging engineering problems and building elegant software with the help of AI.
 
-💻 **Engineering elegance fuels my soul**
+
+💻 Engineering elegance fuels my soul.
+☕ Powered by espresso.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Frontend**: React.js, Next.js, Vite, JavaScript, TypeScript, Redux, RTK Query, Zustand, TanStack Query, HTML & CSS, Material-UI, TailwindCSS, RadixUI, Shadcn/ui, ESLint & Prettier, Jest & React Testing Library, React Hook Form, Zod, Formik, Axios
-
-**Backend**: Node.js, NestJS, Express.js, Redis, Strapi, TypeORM, Prisma, Stripe
-
+**Frontend**: React, Next.js, Vite, TypeScript, JavaScript, Redux Toolkit, Zustand, TanStack Query, React Hook Form, Zod, Material UI, Tailwind CSS, Radix UI, shadcn/ui
+**Backend**: Node.js, NestJS, Express.js, Prisma, TypeORM, DrizzleORM, Redis, Strapi, Stripe
 **Mobile**: React Native, Expo, React Navigation, React Native Paper
-
-**Databases**: MongoDB, PostgreSQL, MSSQL Server, Oracle DB
-
-**AI tooling**: Cursor, Claude Code, CodeRabbit, Context7, MCP
-
-**CI/CD**: Docker, GitHub Actions, GitLab CI/CD
-
-**Cloud**: AWS, Vercel, Railway, Strapi Cloud, Netlify
-
-**Monitoring**: Sentry
-
-**API & Docs**: Swagger, Postman
-
+**Databases**: PostgreSQL, MSSQL Server, MongoDB, Oracle DB
+**AI & Automation**: Claude Code, Cursor, CodeRabbit, Context7, MCP, n8n
+**Cloud & CI/CD**: AWS, Docker, GitHub Actions, GitLab CI/CD, Vercel, Railway, Strapi Cloud, Netlify
+**Engineering**: Clean Architecture, Hexagonal Architecture, Domain-Driven Design, Microservices, Modular Monoliths, Testing, Accessibility, Performance
+**Monitoring & APIs**: Sentry, Swagger, Postman
 **Project management**: Jira, Notion
 
 ---
