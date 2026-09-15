@@ -37,18 +37,7 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vllystopad&theme=default"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vllystopad&theme=default"
-    height="165"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vllystopad&theme=default"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vllystopad&theme=github_dark&utcOffset=1"
     height="165"
   />
 </p>
