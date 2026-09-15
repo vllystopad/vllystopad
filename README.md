@@ -36,8 +36,8 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=vllystopad&show_icons=true&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vllystopad&hide_border=true" height="165">
 </p>
 
 ---
