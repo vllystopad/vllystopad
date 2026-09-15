@@ -37,7 +37,7 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vllystopad&theme=github_dark&utcOffset=1"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vllystopad&hide_border=true"
     height="165"
   />
 </p>
