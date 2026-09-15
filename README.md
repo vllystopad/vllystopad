@@ -47,9 +47,6 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vllystopad&hide_border=true" width="100%">
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://github-readme-zodiac.vercel.app/api/card?username=vllystopad&width=480" width="480">
 </p>
