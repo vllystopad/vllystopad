@@ -12,14 +12,12 @@ I love solving challenging engineering problems and building elegant software wi
 ## 🚀 Tech Stack
 
 **Frontend**: React, Next.js, Vite, TypeScript, JavaScript, Redux Toolkit, Zustand, TanStack Query, React Hook Form, Zod, Material UI, Tailwind CSS, Radix UI, shadcn/ui
-**Backend**: Node.js, NestJS, Express.js, Prisma, TypeORM, DrizzleORM, Redis, Strapi, Stripe
+**Backend**: NestJS, Express.js, Prisma, TypeORM, DrizzleORM, Redis, Strapi, Stripe
 **Mobile**: React Native, Expo, React Navigation, React Native Paper
 **Databases**: PostgreSQL, MSSQL Server, MongoDB, Oracle DB
 **AI & Automation**: Claude Code, Cursor, CodeRabbit, Context7, MCP, n8n
 **Cloud & CI/CD**: AWS, Docker, GitHub Actions, GitLab CI/CD, Vercel, Railway, Strapi Cloud, Netlify
-**Engineering**: Clean Architecture, Hexagonal Architecture, Domain-Driven Design, Microservices, Modular Monoliths, Testing, Accessibility, Performance
-**Monitoring & APIs**: Sentry, Swagger, Postman
-**Project management**: Jira, Notion
+**Engineering**: Clean Architecture, Hexagonal Architecture, Domain-Driven Design, Microservices, Modular Monoliths
 
 ---
 
