@@ -1,58 +1,69 @@
 # 👋 Hi, I'm Vladyslav Lystopad
 
-I'm a **Software Engineer** based in Warsaw, originally from Ukraine, with 2 years of professional experience.
-I love solving challenging engineering problems and building elegant software with the help of AI.
+**Software Engineer** based in Warsaw, originally from Ukraine.
 
-💻 Engineering elegance fuels my soul.
-☕ Powered by espresso.
+I build web and mobile applications, design scalable backend systems, and use AI to solve complex engineering problems.
 
----
+### 🧠 What I build
 
-## 🚀 Tech Stack
+* ⚡ Full-stack web & mobile applications
+* 🧩 Scalable backend systems and APIs
+* 🏗️ Modular and domain-driven architectures
+* 🤖 AI-powered development workflows and automation
 
-**Frontend**: <img src="https://cdn.simpleicons.org/react" width="20"/> React, <img src="https://cdn.simpleicons.org/nextdotjs" width="20"/> Next.js, <img src="https://cdn.simpleicons.org/vite" width="20"/> Vite, <img src="https://cdn.simpleicons.org/typescript" width="20"/> TypeScript, <img src="https://cdn.simpleicons.org/javascript" width="20"/> JavaScript, <img src="https://cdn.simpleicons.org/redux" width="20"/> Redux Toolkit,
-Zustand, TanStack Query, React Hook Form, Zod, <img src="https://cdn.simpleicons.org/mui" width="20"/> Material UI, <img src="https://cdn.simpleicons.org/tailwindcss" width="20"/> Tailwind CSS,
-Radix UI, shadcn/ui
+### 🎯 What I care about
 
-**Backend**: <img src="https://cdn.simpleicons.org/nestjs" width="20"/> NestJS, <img src="https://cdn.simpleicons.org/express" width="20"/> Express.js, <img src="https://cdn.simpleicons.org/prisma" width="20"/> Prisma,
-TypeORM, DrizzleORM, <img src="https://cdn.simpleicons.org/redis" width="20"/> Redis, <img src="https://cdn.simpleicons.org/strapi" width="20"/> Strapi, <img src="https://cdn.simpleicons.org/stripe" width="20"/> Stripe
-
-**Mobile**: <img src="https://cdn.simpleicons.org/react" width="20"/> React Native, <img src="https://cdn.simpleicons.org/expo" width="20"/> Expo,
-React Navigation, React Native Paper
-
-**Databases**: <img src="https://cdn.simpleicons.org/postgresql" width="20"/> PostgreSQL, <img src="https://cdn.simpleicons.org/microsoftsqlserver" width="20"/> MSSQL Server, <img src="https://cdn.simpleicons.org/mongodb" width="20"/> MongoDB, <img src="https://cdn.simpleicons.org/oracle" width="20"/> Oracle DB
-
-**AI & Automation**:
-Claude Code, Cursor, CodeRabbit, Context7, MCP, <img src="https://cdn.simpleicons.org/n8n" width="20"/> n8n
-
-**Cloud & CI/CD**: <img src="https://cdn.simpleicons.org/amazonaws" width="20"/> AWS, <img src="https://cdn.simpleicons.org/docker" width="20"/> Docker, <img src="https://cdn.simpleicons.org/githubactions" width="20"/> GitHub Actions, <img src="https://cdn.simpleicons.org/gitlab" width="20"/> GitLab CI/CD, <img src="https://cdn.simpleicons.org/vercel" width="20"/> Vercel,
-Railway, Strapi Cloud, <img src="https://cdn.simpleicons.org/netlify" width="20"/> Netlify
-
-**Engineering**:
-Clean Architecture, Hexagonal Architecture, Domain-Driven Design, Microservices, Modular Monoliths
+* Clean and maintainable architecture
+* Reliable systems and data consistency
+* Developer experience and automation
+* Turning complex problems into simple solutions
 
 ---
 
-## 🎯 About me
+## 🛠️ My Toolkit
+
+**Frontend** <img src="https://cdn.simpleicons.org/react" height="20"> React · <img src="https://cdn.simpleicons.org/nextdotjs" height="20"> Next.js · <img src="https://cdn.simpleicons.org/vite" height="20"> Vite · <img src="https://cdn.simpleicons.org/typescript" height="20"> TypeScript · <img src="https://cdn.simpleicons.org/javascript" height="20"> JavaScript · Redux Toolkit · Zustand · TanStack Query · React Hook Form · Zod · Material UI · Tailwind CSS · Radix UI · shadcn/ui
+
+**Backend** <img src="https://cdn.simpleicons.org/nestjs" height="20"> NestJS · Express.js · Prisma · TypeORM · DrizzleORM · <img src="https://cdn.simpleicons.org/redis" height="20"> Redis · Strapi · Stripe
+
+**Mobile** <img src="https://cdn.simpleicons.org/react" height="20"> React Native · <img src="https://cdn.simpleicons.org/expo" height="20"> Expo · React Navigation · React Native Paper
+
+**Databases** <img src="https://cdn.simpleicons.org/postgresql" height="20"> PostgreSQL · MSSQL Server · <img src="https://cdn.simpleicons.org/mongodb" height="20"> MongoDB · Oracle DB
+
+**AI & Automation**
+Claude Code · Cursor · CodeRabbit · Context7 · MCP · n8n
+
+**Cloud & CI/CD** <img src="https://cdn.simpleicons.org/amazonaws" height="20"> AWS · <img src="https://cdn.simpleicons.org/docker" height="20"> Docker · <img src="https://cdn.simpleicons.org/githubactions" height="20"> GitHub Actions · GitLab CI/CD · Vercel · Railway · Strapi Cloud · Netlify
+
+**Engineering**
+Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microservices · Modular Monoliths
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165">
+</p>
+
+---
+
+## 🎓 About Me
 
 * 🎓 Studying Computer Science @ Polish-Japanese Academy of Information Technologies
-* ⚡ Acquiring complete picture of software solution
-* 🌍 Languages: English (Professional), Ukrainian (Native), Polish (Basic)
+* 🌍 Based in Warsaw, Poland
+* 🇺🇦 Originally from Ukraine
+* 🗣️ English — Professional · Ukrainian — Native · Polish — Basic
 
 ---
 
-## 🧩 Soft Skills
+## 🎸 Outside of Code
 
-✅ Fast problem solving
-✅ Time management & flexibility
-✅ Initiative
-✅ Stress & deadlines tolerance
-✅ Communication
+🏋️ Gym · ♟️ Chess · 🤝 IT events, conferences & business forums
 
 ---
 
-## 🎸 Outside of code
+### 💻 Engineering elegance fuels my soul.
 
-🏋️ Gym
-♟️ Chess
-🤝 Networking (IT events, conferences, business forums)
+### ☕ Powered by espresso.
