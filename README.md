@@ -33,32 +33,16 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="./github-metrics.svg"
-    alt="GitHub Metrics"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=vllystopad&show_icons=true&hide_border=true&count_private=true"
+    height="165"
   />
-</p>
-
-<p align="center">
   <img
-    src="./activity-graph.svg"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img
-    src="./output/snake.svg"
-    alt="Snake and Commits"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vllystopad&layout=compact&hide_border=true"
+    height="165"
   />
 </p>
 
