@@ -40,11 +40,11 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vllystopad&layout=compact&hide_border=true" height="165">
+  <img src="https://github.com/vllystopad/vllystopad/blob/main/github-metrics.svg" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/vllystopad/vllystopad/blob/main/github-metrics.svg" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vllystopad&hide_border=true" width="100%">
 </p>
 
 <!--START_SECTION:waka-->
@@ -52,10 +52,6 @@ Clean Architecture · Hexagonal Architecture · Domain-Driven Design · Microser
 
 <p align="center">
   <img src="https://github-readme-zodiac.vercel.app/api/card?username=vllystopad&width=480" width="480">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dahan8473/snake-and-commits/main/output/snake.svg" width="100%">
 </p>
 
 ---
