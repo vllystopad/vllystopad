@@ -11,13 +11,6 @@ I build web and mobile applications, design scalable backend systems, and use AI
 * 🏗️ Modular and domain-driven architectures
 * 🤖 AI-powered development workflows and automation
 
-### 🎯 What I care about
-
-* Clean and maintainable architecture
-* Reliable systems and data consistency
-* Developer experience and automation
-* Turning complex problems into simple solutions
-
 ---
 
 ## 🛠️ My Toolkit
